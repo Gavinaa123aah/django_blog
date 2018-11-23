@@ -10,5 +10,10 @@ from . import models
 
 
 def index(request):
-    article = models.Artical.objects.get(pk=1)
-    return render(request, 'blog/index.html', {'article': article})
+    articles = models.Artical.objects.all()
+    return render(request, 'blog/index.html', {'articles': articles})
+
+
+def artice_page(request, article_id):
+    article = models.Artical.objects.get(pk=article_id)
+    return render(request, 'blog/article_page.html', {'article': article})

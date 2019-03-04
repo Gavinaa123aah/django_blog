@@ -8,4 +8,5 @@ bulabla
 # django_blog 
   readme2
 
-# bulabula
+# picture
+![](http://img4.imgtn.bdimg.com/it/u=531203463,1186137673&fm=26&gp=0.jpg)

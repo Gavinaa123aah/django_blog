@@ -10,7 +10,7 @@ bulabla
 
 # picture
 THIS IS A PICTURE FORM BAIDU
-![] (http://img4.imgtn.bdimg.com/it/u=531203463,1186137673&fm=26&gp=0.jpg)
+![blog](http://img4.imgtn.bdimg.com/it/u=531203463,1186137673&fm=26&gp=0.jpg)
 
 # CODING
 ```PYTHON

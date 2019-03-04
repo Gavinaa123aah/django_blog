@@ -13,7 +13,7 @@ THIS IS A PICTURE FORM BAIDU
 ![blog](https://source.unsplash.com/6I7PthWd8BI/800x600)
 
 # CODING
-```PYTHON
+```java
 def funcation(a,b):
   c=a+b
   return c
